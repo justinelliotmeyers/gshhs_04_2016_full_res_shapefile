@@ -1,0 +1,7 @@
+source:
+
+https://www.soest.hawaii.edu/pwessel/gshhg/
+
+copyright:
+
+http://www.gnu.org/licenses/lgpl.html
